@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img  src="https://images-ext-1.discordapp.net/external/P0b_4SBhQXUn_TjtycF104OVDuYsn4el5zuZxfk-DRE/https/letsgocompany.com.br/wp-content/uploads/2023/04/Coding-bro.webp?format=webp&width=701&height=701" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lukitas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p align="left"> 
  Sou estudante de Ciência da Computação na UNIMA. Tenho conhecimento em Python, HTML e CSS, e estou sempre buscando aprender mais sobre desenvolvimento. No momento, estou focado nos meus estudos e aprimorando minhas habilidades com front-end. 
