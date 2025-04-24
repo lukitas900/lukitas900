@@ -1,4 +1,4 @@
-<img  src="https://github.com/user-attachments/assets/7f90811b-940e-4300-859f-a85b62744fae" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img  src="https://github.com/user-attachments/assets/77fc6aeb-882f-4ef8-9ff1-acbedb1bccf7" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lukitas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p align="left"> 
  Sou estudante de Ciência da Computação na UNIMA. Tenho conhecimento em Python, HTML e CSS, e estou sempre buscando aprender mais sobre desenvolvimento. No momento, estou focado nos meus estudos e aprimorando minhas habilidades com front-end. 
